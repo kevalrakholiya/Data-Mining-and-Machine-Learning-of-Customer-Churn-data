@@ -7,7 +7,7 @@ We will use this file to pinpoint potential churners for Business.
 
 VARIABLE DESCRIPTIONS:
 cust_id: Customer ID
-
+<br>
 region: Customer's region
 
 tenure: How long the customer has been with the company
