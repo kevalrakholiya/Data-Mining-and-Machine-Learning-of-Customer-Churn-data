@@ -7,29 +7,54 @@ We will use this file to pinpoint potential churners for Business.
 
 VARIABLE DESCRIPTIONS:
 cust_id: Customer ID
+
 region: Customer's region
+
 tenure: How long the customer has been with the company
+
 age: Customer's age
+
 marital: Marital status
+
 address: Address longevity (how many years at the current address)
+
 income: Customer's income level
+
 ed: Education level
+
 employ: Employment years
+
 retire: Retired or not (Y/N)
+
 gender: Gender of the customer
+
 reside: Number of residents at the same address
+
 tollfree: Toll-free service subscription (Y/N)
+
 equip: Equipment purchase (Y/N)
+
 callcard: Call card usage (Y/N)
+
 wireless: Wireless service (Y/N)
+
 longmon, tollmon, equipmon, cardmon, wiremon: Monthly charges for long distance, toll-free, equipment, calling card, and wireless services
+
 longten, tollten, equipten, cardten, wireten: Total tenure charges for the respective services
+
 multline: Multi-line service (Y/N)
+
 voice, pager, internet, callid, callwait, forward, confer: Usage of voice, pager, internet, caller ID, call waiting, call forwarding, and conference calls
+
 ebill: Electronic billing (Y/N)
+
 loglong: Log of long-term monthly charge
+
 lninc: Log of income
+
 custcat: Customer category (C1, C2, etc.)
+
 churn: Whether the customer churned (Y/N)
+
 
 Target variable: Churn (churn: Y (yes), churn: N(no))
