@@ -6,55 +6,56 @@ In this Project, we will apply the CRISP-DM (Cross-Industry Standard Process for
 We will use this file to pinpoint potential churners for Business.
 
 VARIABLE DESCRIPTIONS:
+<br>
 cust_id: Customer ID
 <br>
 region: Customer's region
-
+<br>
 tenure: How long the customer has been with the company
-
+<br>
 age: Customer's age
-
+<br>
 marital: Marital status
-
+<br>
 address: Address longevity (how many years at the current address)
-
+<br>
 income: Customer's income level
-
+<br>
 ed: Education level
-
+<br>
 employ: Employment years
-
+<br>
 retire: Retired or not (Y/N)
-
+<br>
 gender: Gender of the customer
-
+<br>
 reside: Number of residents at the same address
-
+<br>
 tollfree: Toll-free service subscription (Y/N)
-
+<br>
 equip: Equipment purchase (Y/N)
-
+<br>
 callcard: Call card usage (Y/N)
-
+<br>
 wireless: Wireless service (Y/N)
-
+<br>
 longmon, tollmon, equipmon, cardmon, wiremon: Monthly charges for long distance, toll-free, equipment, calling card, and wireless services
-
+<br>
 longten, tollten, equipten, cardten, wireten: Total tenure charges for the respective services
-
+<br>
 multline: Multi-line service (Y/N)
-
+<br>
 voice, pager, internet, callid, callwait, forward, confer: Usage of voice, pager, internet, caller ID, call waiting, call forwarding, and conference calls
-
+<br>
 ebill: Electronic billing (Y/N)
-
+<br>
 loglong: Log of long-term monthly charge
-
+<br>
 lninc: Log of income
-
+<br>
 custcat: Customer category (C1, C2, etc.)
-
+<br>
 churn: Whether the customer churned (Y/N)
-
-
+<br>
+<br>
 Target variable: Churn (churn: Y (yes), churn: N(no))
